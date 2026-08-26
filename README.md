@@ -1,119 +1,113 @@
-#Hei jeg heter Yaroslav 
+# Hei, jeg heter Yaroslav 
 Velkommen til min presentasjonsside
 
 ---
 
 ## Om meg
 
-Jeg er elev på Amalie Skrams VGs og studerer på VG2 og interessert i teknologi, programmering og datamaskiner. På fritiden liker jeg å spille videospill, se filmer og lære nye ting innen IT. Jeg er motivert for å utvikle ferdighetene mine og få mer erfaring med programmering.
+Jeg er elev på Amalie Skrams VGs og studerer på VG2 og interessert i teknologi, programmering og datamaskiner. Jeg er motivert for å utvikle ferdighetene mine og få mer erfaring med programmering.
 
 ---
 
-## 🎯 Mine interesser
+## Mine interesser
 
-- 💻 Programmering
-- 🎮 Gaming
-- 🎬 Filmer og serier
-- 🎵 Musikk
-- ⚽ Sport
-- 🌍 Teknologi
+- Programmering
+- Gaming
+- Musikk
+
 
 ---
 
-## 📊 Fakta om meg
+## Fakta om meg
 
 | Kategori | Informasjon |
 |-----------|-------------|
 | Navn | Yaroslav Zozulia |
-| Bosted | Norge |
+| Bosted | Bergen |
 | Favorittfag | Informasjonsteknologi |
-| Hobby | Gaming og programmering |
-| Mål | Bli bedre til programmering |
+| Hobby | Football |
+| Mål | Får drømmejobb innen programmering |
 
 ---
 
-## 🛠️ Ferdigheter
+## Ferdigheter
 
 - HTML
 - CSS
 - JavaScript
 - Python
-- GitHub
+- React
 
 ---
 
-## 💻 Kodesnutter
+## Kodesnutter
 
 ### Python
 
 ```python
-print("Hei verden!")
+name = "Yaroslav"
+skills = ["Python", "HTML", "CSS", "JavaScript"]
+for skill in skills:
+    print(f"{name} lærer {skill}")
 ```
 
 ### JavaScript
 
 ```javascript
-console.log("Hei verden!");
+const hobbies = ["Gaming", "Programmering", "Musikk"];
+hobbies.forEach(hobby => {
+    console.log(`Jeg liker ${hobby}`);
+});
 ```
 
 ### HTML
 
 ```html
-<h1>Hei verden!</h1>
-<p>Dette er min første nettside.</p>
+<h1>Velkommen til min github side</h1>
+<p>Her kan du se på prosjektene mine</p>
+<button>Les mer</button>
 ```
 
 ---
 
-## 🖼️ Bilde
+## Bilde
 
-![Profilbilde](https://via.placeholder.com/300senere legge inn et ekte bilde av meg selv.*
-
----
-
-## 🎬 GIF
-
-![Coding GIF](https://media.giphy.com/mediaFP504/giphy.gif
+kommer snart
 
 ---
 
-## 📋 Mine mål
+## GIF
 
-1. Lære mer programmering.
+kommer snart
+
+---
+
+## Mine mål
+
+1. Å snakke flytende norsk.
 2. Bli flinkere i webutvikling.
-3. Lage egne prosjekter.
+3. Lage mer egne prosjekter.
 4. Utvikle ferdighetene mine innen IT.
 
 ---
 
-## 🔍 Mer informasjon
+### Favorittspill
 
-<details>
-<summary>Klikk her for å lese mer om meg</summary>
+- Dota 2
+- CS2
+- Clash royale
 
-### 🎮 Favorittspill
 
-- Minecraft
-- Counter-Strike 2
-- GTA V
-
-### 🍕 Favorittmat
-
-- Pizza
-- Sushi
-- Burger
-
-### 🚀 Drømmejobb
+### Drømmejobb
 
 Jeg ønsker å jobbe med programmering, cybersikkerhet eller annen teknologi i fremtiden.
 
-</details>
 
 ---
 
 ## 📫 Kontakt
 
-- GitHub: https://github.com/
-- E-post: min.epost@example.com
+- GitHub: https://github.com/deadlight121
+- E-post: slava.ukraine335@gmail.com
 
-Takk for at du besøkte README-filen min! 😃
+Takk for at du besøkte README filen min! 😃
