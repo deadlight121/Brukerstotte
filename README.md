@@ -5,7 +5,7 @@ Velkommen til min presentasjonsside
 
 ## Om meg
 
-Jeg er elev på Amalie Skrams VGs og studerer på VG2 og interessert i teknologi, programmering og datamaskiner. Jeg er motivert for å utvikle ferdighetene mine og få mer erfaring med programmering.
+Jeg er elev på Amalie Skrams VGs på VG2 ITK. Jeg er interessert i teknologi, programmering og datamaskiner og motivert for å utvikle ferdighetene mine og få mer erfaring med programmering.
 
 ---
 
