@@ -72,13 +72,14 @@ hobbies.forEach(hobby => {
 
 ## Bilde
 
-kommer snart
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/7dc84a67-9aaf-4e3e-b6fa-6f77d28b260b" />
+
 
 ---
 
 ## GIF
 
-kommer snart
+![67](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c0M2QwaDBwNzVoNXV3bThtZmd1dWZjZDg1bWg3N2xveWFpNm5qYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIatAEDb9NwwAd3cYE/giphy.gif)
 
 ---
 
