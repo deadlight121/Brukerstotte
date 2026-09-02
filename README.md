@@ -1,6 +1,19 @@
 # Hei, jeg heter Yaroslav 
 Velkommen til min presentasjonsside
 
+
+Meny:
+- [Om meg](#om-meg)
+- [Mine interesser](#mine-interesser)
+- [Fakta om meg](#fakta-om-meg)
+- [Ferdigheter](#️ferdigheter)
+- [Kodesnutter](#kodesnutter)
+- [Bilde](#️bilde)
+- [GIF](#gif)
+- [Mine mål](#mine-mål)
+- [Kontakt](#kontakt)
+
+
 ---
 
 ## Om meg
