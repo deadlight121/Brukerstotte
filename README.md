@@ -125,3 +125,6 @@ Jeg ønsker å jobbe med programmering, cybersikkerhet eller annen teknologi i f
 - E-post: slava.ukraine335@gmail.com
 
 Takk for at du besøkte README filen min! 😃
+
+
+[Tilbake til toppen](#hei-jeg-heter-yaroslav)
